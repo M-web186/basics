@@ -33,7 +33,7 @@ def main():
             name = 'Alice'
             y = 10.6
             are_you_happy = True
-            print(x, y, name, is_happy, "\n")
+            print(x, y, name, are_you_happy, "\n")
 
         elif choice == '3':
             print("\nExample: If Statements")
@@ -65,7 +65,7 @@ def main():
             print("Code:")
             print("def addition(a, b):")
             print("    return a + b")
-            print("result = add(6, 6)")
+            print("result = addition(6, 6)")
             print("print('6 + 6 =', result)")
             print("Output:")
             def add(a, b):
