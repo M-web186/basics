@@ -68,7 +68,7 @@ def main():
             print("result = addition(6, 6)")
             print("print('6 + 6 =', result)")
             print("Output:")
-            def add(a, b):
+            def addition(a, b):
                 return a + b
             result = add(6, 6)
             print("6 + 6 ="  ,result, "\n")
